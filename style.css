@@ -1,0 +1,17 @@
+#myButton{
+	height: 50px;
+	width:50px;
+	border-radius: 0px;
+}
+#tallDiv{
+	background: green;
+	height: 1200px;
+}
+#mouseOverMe{
+	background: red;
+	position: relative;
+	top:500px;
+	height: 200px;
+	width: 200px;
+	margin: 0 auto;
+}
